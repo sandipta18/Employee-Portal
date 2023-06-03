@@ -25,6 +25,8 @@
         "drupal/core-project-message": "^10.0",
         "drupal/core-recommended": "^10.0",
         "drupal/devel": "^5.1",
+        "drupal/ds": "^5.0@alpha",
+        "drupal/field_group": "^3.4",
         "drupal/mahi": "^1.0",
         "drupal/pathauto": "^1.11",
         "drupal/quicktabs": "^3.0@alpha",
